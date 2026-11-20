@@ -1,0 +1,8 @@
+python-telegram-bot>=21.0,<23
+gspread>=6.0
+google-auth>=2.30
+matplotlib>=3.8
+tenacity>=8.2
+starlette>=0.37
+uvicorn>=0.30
+tzdata>=2024.1
